@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #ffdeeb;
+  padding: 26px;
+  text-align: center;
+   font-family: 'Didact Gothic';font-size: 170%;
+  color:#fdfff7; 
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #fffbf5;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #ffb0cf;
+  text-align: center;
+  padding: 14px 40px;
+  text-decoration: none;
+  font-family:
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: rose;
+}
+
+
+ 
