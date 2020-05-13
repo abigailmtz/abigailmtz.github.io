@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Add a  background color with some padding */
+body {
+  font-family: Arial;
+  padding: 30px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, yellow, pink); /* Standard syntax (must be last) */
+}
+
+
+.header {
+  padding: 20px;
+  font-size: 40px;
+  text-align: center;
+  background: white;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
+  float: left;
+  width: 85%;
+}
+
+/* Add a card effect for articles */
+.card {
+   background-color: white;
+   padding: 20px;
+   margin-top: 20px;
+}
+
+
