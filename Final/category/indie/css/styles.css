@@ -7,7 +7,7 @@ body {
   font-family: Arial;
   padding: 30px;
   background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to bottom right, yellow, green); /* Standard syntax (must be last) */
+  background-image: linear-gradient(to bottom right, orange, green); /* Standard syntax (must be last) */
 }
 
 
